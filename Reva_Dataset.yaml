@@ -1,0 +1,5 @@
+train: ../Dataset/Train/images
+val: ../Dataset/Test/images
+
+nc: 1
+names: ['plastic']
